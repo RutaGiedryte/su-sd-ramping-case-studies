@@ -1,0 +1,1 @@
+This is the data and results of the case study from the paper "Start-up and Shut-down Capabilities in an Energy System Optimization Model with Flexible Temporal Resolution" (https://repository.tudelft.nl/record/uuid:e0ba2fdb-aa9f-45d3-9be9-f68fdcb32948). The paper is written as part of Research Project 2025 of TU Delft.
